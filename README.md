@@ -1,5 +1,8 @@
 # Genetic Algorithms
 
+This is a fork of an excellent code structrue for genetic algorithms based on the classic 0/1 Knapsack problem. This is a great starting point to learn and understand Genetic Algorithms. Thanks again for the code to the owner.
+---
+
 Hello. Thank you for being here. This repository belongs to the youtube videos [What are Genetic Algorithms](https://youtu.be/uQj5UNhCPuo) and [Genetic Algorithm from Scratch in Python](https://youtu.be/nhT56blfRpE).
 If you haven't seen it, please consider watching part one of this series, to get a better understanding of this code.
 
